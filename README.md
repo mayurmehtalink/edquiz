@@ -2,6 +2,6 @@
 
 clone url  https://github.com/mayurmehtalink/edquiz.git
 extract file on base url
-create database and  upload sql file in database
+database is quiz
 
 php artisan serve
