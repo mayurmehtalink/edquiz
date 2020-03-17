@@ -1,6 +1,7 @@
 # ed Education survey
 
 clone url  https://github.com/mayurmehtalink/edquiz.git or download zip
+
 create database quiz on localhost/phpmyadmin 
 
 import sql file on database
